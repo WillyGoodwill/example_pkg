@@ -11,7 +11,7 @@ with open(os.path.join(HERE, "README.md")) as fid:
 
 setuptools.setup(
     name="example-pkg-willygoodwill", # Replace with your own username
-    version="0.0.3",
+    version="1.0.4",
     author="Olga Lazunina",
     author_email="olga.lazunina@gmail.com",
     description="A small example package",

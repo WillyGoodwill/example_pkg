@@ -20,7 +20,7 @@ import os
 # Reader imports
 import example_pkg
 from example_pkg.mod1 import *
-from example_pkg import mod2
+from example_pkg.mod2 import *
 
 def main():  # type: () -> None
     """Calculate data a+b"""
